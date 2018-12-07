@@ -1,0 +1,127 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+img{
+	width: 100%;
+	height: 100%
+}
+.box{
+	width: 100%;
+	background: #ffffff;
+}
+.top{
+	width: 100%;
+	height: 80px;
+	background: #ffffff;/* 
+	float: left; */
+}
+.zhong{
+	width: 1200px;
+	height: 80px;
+	background: #ffffff;
+	margin: 0 auto;
+}
+.left{
+	width: 54px;
+	height: 80px;
+	float: left;
+}
+.you{
+	width: 76px;
+	height: 80px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: right;
+	line-height: 80px;
+}
+.you2{
+	width: 90px;
+	height: 80px;
+	margin-right: 6px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}
+.you3{
+	width: 90px;
+	height: 80px;
+	margin-right: 6px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}.you4{
+	width: 90px;
+	height: 80px;
+	margin-right: 6px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}.you5{
+	width: 90px;
+	height: 80px;
+	margin-right: 6px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}.you6{
+	width: 90px;
+	height: 80px;
+	margin-right: 6px;
+	font-size: 16px;
+	color: #000000;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}.you7{
+	width: 60px;
+	height: 80px;
+	margin-right: 20px;
+	border-bottom: 2px solid #a71c1c;
+	font-size: 16px;
+	color: #a71c1c;
+	font-family: "苹方";
+	float: right;
+	text-align: center;
+	line-height: 80px;
+}
+.you:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}
+.you2:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}.you3:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}.you4:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}.you5:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}.you6:hover{
+	color: #a71c1c;
+	border-bottom: 2px solid #a71c1c;
+}
+.bottom{
+	width: 100%;
+	background: #ffffff;
+}
